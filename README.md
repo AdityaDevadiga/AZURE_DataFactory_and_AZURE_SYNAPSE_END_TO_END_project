@@ -39,6 +39,30 @@ PART 6 :END TO END TESTING
                       
 
                       2.create storage account:
+                      ![storage_account](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/70f804bb-08fe-4ccb-a8f9-3e26e4b24249)
+                      
+                      3.create azure data factory:
+                      ![Uploading AZURE DATA FACTORY.png…]()
+
+                      4.Azure synapse worksapce:
+                      ![SYNAPSE](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/8c22ec32-edaf-43ea-aa10-59f3533e8bf3)
+
+                      5.AZURE KEY VAULTS:
+                      ![AZURE KEY VAULTS](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/dc81feae-4a4e-44d4-b620-c618ebb412a8)
+
+                      6.SQL SERVER:
+                         ![SQL SERVER](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/f3769ada-c817-4c74-a5df-ea617f5b2b5d)
+
+
+                      
+
+                      
+
+
+                      
+
+                     
+
                       
 
                       
