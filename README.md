@@ -75,7 +75,7 @@ Create reports and dashboards for data visualization.
                       --- 5.create a azure key vaults(store the sensitive data)
                       snapshots
                       1.databricks workspace :
-                       ![databricks_work_space](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/021ce12d-0812-47af-853e-157b73f32a56)
+                     ![databricks_work_space](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/021ce12d-0812-47af-853e-157b73f32a56)
 
                       
 
