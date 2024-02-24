@@ -33,8 +33,14 @@ PART 6 :END TO END TESTING
                       --- 4.create azure synapse workspace
                       --- 5.create a azure key vaults(store the sensitive data)
                       snapshots
+                      1.databricks workspace :
+                      ![Screenshot (31)](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/5abf3660-633b-494a-baf4-9a539a8df3be)
 
-                      ![image](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/242abacd-8731-4ef7-94c1-684ef825d659)
+                      2.create storage account:
+                      
+
+                      
+
 
 
 
