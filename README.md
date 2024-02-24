@@ -23,7 +23,19 @@ PART 4 : DATA LOADING
 PART 5 : DATA REPORTING
 PART 6 :END TO END TESTING
 
-#
+# PART 1 :
+
+     --STEP 1 : LOGIN TO AZURE PORTAL
+             1.create a resource group first :
+                      --- 1.create workspace for azure databricks.
+                      --- 2.create storageaccount 
+                      --- 3.create azure datafactory
+                      --- 4.create azure synapse workspace
+                      --- 5.create a azure key vaults(store the sensitive data)
+                      snapshots
+
+                      ![image](https://github.com/AdityaDevadiga/AZURE_DataFactory_and_AZURE_SYNAPSE_END_TO_END_project/assets/72966036/242abacd-8731-4ef7-94c1-684ef825d659)
+
 
 
 
